@@ -3,7 +3,7 @@
 Welcome to my personal portfolio site hosted with **GitHub Pages** 🚀  
 This site showcases my projects, skills, and learnings.
 
-🔗 **Live Website:** [https://vishalchandrola20.github.io](https://<your-username>.github.io)
+🔗 **Live Website:** [https://vishalchandrola20.github.io](https://vishalchandrola20.github.io)
 
 ---
 
@@ -47,6 +47,6 @@ If you want to create a similar portfolio:
 ## 📧 Contact
 Feel free to connect with me!
 
-- LinkedIn: [Your LinkedIn](#)
-- GitHub: [Your GitHub](#)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vishal-chandrola-20/)
+- GitHub: [Your GitHub](https://github.com/vishalchandrola20)
 - Email: vishalchandrola20@gmail.com  
